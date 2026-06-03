@@ -1,10 +1,10 @@
-fastapi
-uvicorn
-tensorflow==2.20.0
-numpy
-pillow
+fastapi==0.136.3
+uvicorn==0.48.0
 python-multipart
-streamlit
-requests
+pillow
+numpy
+tensorflow==2.20.0
+keras==3.13.0
 groq
+python-dotenv
 gdown
