@@ -1,0 +1,61 @@
+```gitignore
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Model Files (remove if you want to upload model)
+*.h5
+*.keras
+*.pb
+
+# TensorFlow
+checkpoint
+*.ckpt
+
+# Temporary Files
+tmp/
+temp/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Render
+.render/
+
+# Cache
+.cache/
+
+# Python Version
+.python-version
+```
