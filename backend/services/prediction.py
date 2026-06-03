@@ -11,7 +11,7 @@ download_model()
 from tensorflow.keras.models import load_model
 
 MODEL_DIR = Path(__file__).resolve().parents[1] / "models"
-MODEL_PATH = MODEL_DIR / "plant_disease_prediction_model.h5"
+MODEL_PATH = MODEL_DIR / "plant_disease_prediction_model.keras"
 CLASS_PATH = MODEL_DIR / "class_indices.json"
 
 
