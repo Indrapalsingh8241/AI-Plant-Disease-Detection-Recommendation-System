@@ -3,7 +3,7 @@ import gdown
 
 MODEL_PATH = "backend/models/plant_disease_prediction_model.h5"
 
-FILE_ID = "1R8HZm7DBWSIarTCnmDuuB79kSQzq3fQW"
+FILE_ID = "1SLauGsRKvfzpfe0SXH6VWHn73vKOMz-_"
 
 URL = f"https://drive.google.com/uc?id={FILE_ID}"
 
