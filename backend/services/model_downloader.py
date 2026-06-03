@@ -1,7 +1,7 @@
 import os
 import gdown
 
-MODEL_PATH = "backend/models/plant_disease_prediction_model.h5"
+MODEL_PATH = "backend/models/plant_disease_prediction_model.keras"
 
 FILE_ID = "1SLauGsRKvfzpfe0SXH6VWHn73vKOMz-_"
 
